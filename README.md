@@ -1,16 +1,5 @@
-# coba
+# ToDo
 
-A new Flutter project.
+Sebuah aplikasi cross-platform yang dapat membuat catatan atau daftar pekerjaan yang akan dilakukan berbasis flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-2023-12-09-214224.png](https://i.postimg.cc/2SZVsDpm/Screenshot-2023-12-09-214224.png)](https://postimg.cc/0z9kSh2H)      [![Screenshot-2023-12-09-214443.png](https://i.postimg.cc/02JkQ0V0/Screenshot-2023-12-09-214443.png)](https://postimg.cc/cr0ykwyv)
